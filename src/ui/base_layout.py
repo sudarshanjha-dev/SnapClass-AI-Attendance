@@ -59,7 +59,7 @@ def style_base_layout():
             h1 {
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 3.5rem !important;
-                line-height:1.1 1important;
+                line-height:1.1 !important;
                 margin-bottom:0rem !important;
             }
                 
@@ -69,6 +69,7 @@ def style_base_layout():
                 font-size: 2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
+                color:black !important;
             }
                 
             h3, h4, p {
@@ -104,7 +105,23 @@ def style_base_layout():
                 }
 
             button:hover{
-                transform :scale(1.05)}
+                transform :scale(1.05)};
+                .stTextInput input {
+    color: black !important;
+    background-color: white !important;
+}
+
+.stTextArea textarea {
+    color: black !important;
+    background-color: white !important;
+}
+
+label {
+    color: black !important;
+}
+                
+
+            
         </style>  
 
                 """
