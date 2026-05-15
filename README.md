@@ -1,3 +1,4 @@
+<img width="1063" height="747" alt="Screenshot 2026-05-15 173652" src="https://github.com/user-attachments/assets/bf652835-b2f9-42db-a4b1-e356c40e6cbd" />
 # SnapClass — AI-Powered Attendance System
 
 > Take attendance in seconds, not minutes. No roll calls, no paper sheets.
@@ -129,6 +130,9 @@ SUPABASE_KEY = "your-anon-key"
 <img width="808" height="545" alt="Screenshot 2026-05-15 174657" src="https://github.com/user-attachments/assets/c7814693-57d2-42df-977a-898f0d32d8cb" />
 <img width="748" height="607" alt="Screenshot 2026-05-15 181634" src="https://github.com/user-attachments/assets/05424c50-0d7d-416a-9d0d-91ed86888750" />
 <img width="718" height="803" alt="Screenshot 2026-05-15 180820" src="https://github.com/user-attachments/assets/a3f8f46f-a4d4-46b0-8f26-2a310377cd83" />
+
+<img width="1063" height="747" alt="Screenshot 2026-05-15 173652" src="https://github.com/user-attachments/assets/f2db3538-66db-4429-ab1e-f595aa03653e" />
+<img width="911" height="637" alt="Screenshot 2026-05-15 172637" src="https://github.com/user-attachments/assets/907cc716-25fb-4100-abbb-abde2b62d525" />
 
 
 ---
