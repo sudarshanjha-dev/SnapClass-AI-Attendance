@@ -1,4 +1,4 @@
-<img width="1063" height="747" alt="Screenshot 2026-05-15 173652" src="https://github.com/user-attachments/assets/bf652835-b2f9-42db-a4b1-e356c40e6cbd" />
+
 # SnapClass — AI-Powered Attendance System
 
 > Take attendance in seconds, not minutes. No roll calls, no paper sheets.
