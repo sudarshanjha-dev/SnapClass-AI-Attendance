@@ -69,7 +69,6 @@ def style_base_layout():
                 font-size: 2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
-                color:black !important;
             }
                 
             h3, h4, p {
@@ -105,16 +104,17 @@ def style_base_layout():
                 }
 
             button:hover{
-                transform :scale(1.05)};
-                .stTextInput input {
-    color: black !important;
-    background-color: white !important;
-}
+                transform :scale(1.05);
+            }
+            .stTextInput input {
+                color: black !important;
+                background-color: white !important;
+            }
 
-.stTextArea textarea {
-    color: black !important;
-    background-color: white !important;
-}
+            .stTextArea textarea {
+               color: black !important;
+               background-color: white !important;
+            }
 
 label {
     color: black !important;
