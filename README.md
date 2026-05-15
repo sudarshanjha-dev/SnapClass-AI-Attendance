@@ -124,7 +124,12 @@ SUPABASE_KEY = "your-anon-key"
 
 ## Screenshots
 
-> _Add screenshots of the teacher dashboard, face recognition output, and student enrollment flow here_
+
+<img width="732" height="622" alt="Screenshot 2026-05-15 174750" src="https://github.com/user-attachments/assets/f030cc16-ce0a-4280-840e-2128b6a2f2b5" />
+<img width="808" height="545" alt="Screenshot 2026-05-15 174657" src="https://github.com/user-attachments/assets/c7814693-57d2-42df-977a-898f0d32d8cb" />
+<img width="748" height="607" alt="Screenshot 2026-05-15 181634" src="https://github.com/user-attachments/assets/05424c50-0d7d-416a-9d0d-91ed86888750" />
+<img width="718" height="803" alt="Screenshot 2026-05-15 180820" src="https://github.com/user-attachments/assets/a3f8f46f-a4d4-46b0-8f26-2a310377cd83" />
+
 
 ---
 
