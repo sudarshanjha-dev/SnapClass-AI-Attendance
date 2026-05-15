@@ -21,7 +21,7 @@ def student_dashboard():
     with c1:
         header_dashboard()
     with c2:
-        st.subheader(f"""Welcome, {student_data['name']} """)
+        st.markdown(f"<h3 style='color: black;'>Welcome, {student_data['name']}</h3>", unsafe_allow_html=True)
         if st.button("Logout", type='secondary', key='loginbackbtn', shortcut="control+backspace"):
             st.session_state['is_logged_in'] = False
             del st.session_state.student_data 
@@ -67,7 +67,7 @@ def student_dashboard():
 
         stats = stats_map.get(sid,{"total":0, "attended": 0} )
         def unenroll_button():
-                if st.button("Unenroll from tihs course", type='tertiary', width='stretch', icon=':material/delete_forever:'):
+                if st.button("Unenroll from this course", type='tertiary', width='stretch', icon=':material/delete_forever:'):
                     unenroll_student_to_subject(student_id, sid)
                     st.toast(f'Unenrolled from {sub['name']} successfully!')
                     st.rerun()
